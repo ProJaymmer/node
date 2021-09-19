@@ -9,3 +9,5 @@ all: .DEFAULT
 	@gmake ${.FLAGS} ${.TARGETS}
 
 .PHONY: test
+
+//random text
